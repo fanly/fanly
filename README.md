@@ -1,21 +1,21 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fanly&count_private=true&show_icons=true&hide=contribs,prs" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanly" />
-</a>
+### Hello world 👋
 
-<!--
-**fanly/fanly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+喜欢折腾。
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>统计数据🔻</br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanly&theme=blueberry&show_icons=true&hide=contribs,prstheme=radical)
+
+<details>
+<summary>
+未来开发计划 🏳️‍🌈🏳️‍🌈🏳️‍🌈
+</summary>
+  
+- 基于 Electron 的 Mac 版本日历 ⚪
+  
+  记录自己基于 Electron 的 Mac 版本日历的开发过程，最终上线持续更新，保持开源。
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanly&repo=fanlymenu)](https://github.com/fanly/fanlymenu)
+  
+</details>
