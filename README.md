@@ -4,13 +4,11 @@
 
 ***
 
-<br/>统计数据🔻</br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanly&theme=blueberry&show_icons=true&hide=contribs,prstheme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanly&theme=blueberry&show_icons=true&hide=contribs,prs&theme=vue)
 
-<details>
-<summary>
-未来开发计划 🏳️‍🌈🏳️‍🌈🏳️‍🌈
-</summary>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanly&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+### 未来开发计划 🏳️‍🌈🏳️‍🌈🏳️‍🌈
   
 - 基于 Electron 的 Mac 版本日历 ⚪
   
@@ -18,4 +16,3 @@
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanly&repo=fanlymenu)](https://github.com/fanly/fanlymenu)
   
-</details>
