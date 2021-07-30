@@ -4,9 +4,16 @@
 
 ***
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fanly&count_private=true&show_icons=true&hide=contribs,prs&theme=vue" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanly&hide=html" />
+</a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanly&theme=blueberry&show_icons=true&hide=contribs,prs&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanly&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanly&hide=html)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
 ### 未来开发计划 🏳️‍🌈🏳️‍🌈🏳️‍🌈
   
