@@ -1,13 +1,8 @@
 ### Hello world 👋
 
 喜欢折腾。
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=fanly&theme=dracula)](https://github.com/fanly/github-readme-activity-graph)
 
-
-作者：树酱
-链接：https://juejin.cn/post/7004639198061789191
-来源：掘金
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=fanly&theme=blue)](https://github.com/fanly/github-readme-activity-graph)
 
 ***
 
