@@ -1,5 +1,11 @@
 ### Hello world 👋
 
+![](https://img.shields.io/badge/-Laravel-29beb0?style=flat-square&logo=laravel&labelColor=ffffff&color=red)
+![](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D)
+![](https://img.shields.io/badge/-TypeScript-e5cd0c?style=flat-square&logo=TypeScript&labelColor=f7df1e&logoColor=000)
+
+
+
 喜欢折腾。
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=fanly&theme=green)](https://github.com/fanly/github-readme-activity-graph)
