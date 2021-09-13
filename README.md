@@ -19,11 +19,6 @@
 
 ### 未来开发计划 🏳️‍🌈🏳️‍🌈🏳️‍🌈
   
-- 基于 Electron 的 Mac 版本日历
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanly&repo=fanlymenu)](https://github.com/fanly/fanlymenu)
-  
-- 记录 Laravel Awesome
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanly&repo=laravel-awesome)](https://github.com/fanly/laravel-awesome)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanly&repo=fanlymenu)](https://github.com/fanly/fanlymenu)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanly&repo=laravel-awesome)](https://github.com/fanly/laravel-awesome)
   
