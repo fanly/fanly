@@ -8,8 +8,6 @@
 
 喜欢折腾。
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=fanly&theme=green)](https://github.com/fanly/fanly)
-
 ***
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
