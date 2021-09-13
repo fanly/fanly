@@ -25,3 +25,9 @@
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanly&repo=fanlymenu)](https://github.com/fanly/fanlymenu)
   
+- Laravel 学习图谱 ⚪
+  
+  记录 Laravel Awesome。
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanly&repo=laravel-awesome)](https://github.com/fanly/laravel-awesome)
+  
