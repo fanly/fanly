@@ -19,15 +19,11 @@
 
 ### 未来开发计划 🏳️‍🌈🏳️‍🌈🏳️‍🌈
   
-- 基于 Electron 的 Mac 版本日历 ⚪
-  
-  记录自己基于 Electron 的 Mac 版本日历的开发过程，最终上线持续更新，保持开源。
+- 基于 Electron 的 Mac 版本日历
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanly&repo=fanlymenu)](https://github.com/fanly/fanlymenu)
   
-- Laravel 学习图谱 ⚪
-  
-  记录 Laravel Awesome。
+- 记录 Laravel Awesome
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanly&repo=laravel-awesome)](https://github.com/fanly/laravel-awesome)
   
