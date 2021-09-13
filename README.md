@@ -19,6 +19,6 @@
 
 ### 未来开发计划 🏳️‍🌈🏳️‍🌈🏳️‍🌈
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanly&repo=fanlymenu)](https://github.com/fanly/fanlymenu)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanly&repo=laravel-awesome)](https://github.com/fanly/laravel-awesome)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanly&repo=fanlymenu&show_icons=true&theme=prussian)](https://github.com/fanly/fanlymenu)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanly&repo=laravel-awesome&show_icons=true&theme=calm)](https://github.com/fanly/laravel-awesome)
   
