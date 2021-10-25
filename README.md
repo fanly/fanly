@@ -17,10 +17,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanly&hide=html&layout=compact" />
 </a>
 
-![](https://github-profile-trophy.vercel.app/?username=fanly&theme=flat&column=7&margin-w=10)
-
 ### 未来开发计划 🏳️‍🌈🏳️‍🌈🏳️‍🌈
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanly&repo=fanlymenu&show_icons=true&theme=prussian)](https://github.com/fanly/fanlymenu)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanly&repo=laravel-awesome&show_icons=true&theme=calm)](https://github.com/fanly/laravel-awesome)
   
+
+![](https://github-profile-trophy.vercel.app/?username=fanly&theme=flat&column=7&margin-w=10)
